@@ -1,29 +1,16 @@
-# pinia-tasks
+# Learning Pinia
 
-This template should help get you started developing with Vue 3 in Vite.
+A repository dedicated for learning Pinia - a state management library for Vue JS.
 
-## Recommended IDE Setup
+### Concepts
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- What is Pinia?
+- Installation and Making a Store
+- Accessing Store State
+- Getters
+- Actions
+- Pinia with Vue Devtools
+- Async Actions
+- Resetting State and storeToRefs
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+From The Net Ninja's series, [Pinia Crash Course](https://www.youtube.com/watch?v=u0B9dysw29A&list=PL4cUxeGkcC9hp28dYyYBy3xoOdoeNw-hD).
