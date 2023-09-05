@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Make breakfast",
+      "isFav": true
+    },
+    {
+      "id": 2,
+      "title": "Drink cofee",
+      "isFav": true
+    },
+    {
+      "id": 3,
+      "title": "Brush teet",
+      "isFav": false
+    },
+    {
+      "id": 4,
+      "title": "Watch YouTube videos",
+      "isFav": false
+    }
+  ]
+}
